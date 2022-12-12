@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Palette+Mosaic&display=swap');
+
+body{
+   font-family: 'Nunito', sans-serif;
+   background-color: rgb(210, 249, 253);
+}
+
+h1{
+   font-family: 'Palette Mosaic', cursive;
+}
+
+.firstCol, .secondCol{
+   border: 3px solid rgb(87, 148, 163);
+}
+h3{
+   margin-top: 10px;
+   font-weight: bold;
+}
